@@ -1,0 +1,6 @@
+modelo\bean\Usuario.class
+modelo\dao\ClienteDAO.class
+modelo\dao\UsuarioDAO.class
+modelo\bean\Cliente.class
+accesoDB\Conexion.class
+controlador\usuario\ServletUsuario.class
